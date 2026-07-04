@@ -1,0 +1,6 @@
+{
+  "name": "AI Social Video Maker",
+  "description": "Generate high quality animated videos from text, audio narration, scripts, or images for TikTok, Instagram, and YouTube Reels using Gemini & Veo AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
